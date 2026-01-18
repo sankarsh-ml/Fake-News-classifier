@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Data & Models
+*.pkl
+*.pickle
+*.npz
+*.npy
+model.pkl
+vocab.pkl
+data/
+
+# Virtual environments
+env/
+venv/
+.venv/
+ENV/
+
+# VS Code
+.vscode/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db

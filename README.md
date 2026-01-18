@@ -22,7 +22,8 @@ fake-news-classifier/data/
 
 
 ## Run main
-python main.py
+python src/main.py
+
 
 
 

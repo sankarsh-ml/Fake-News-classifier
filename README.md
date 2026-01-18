@@ -26,4 +26,6 @@ python src/main.py
 
 
 
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![Status](https://img.shields.io/badge/Project%20Status-Complete-brightgreen)
 
